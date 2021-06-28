@@ -5,7 +5,7 @@ const Work = () => (
     <WorkContainer>
       <Header>My Work</Header>
       <WorkText>
-        I’m just going to link my <BoldGreen>GitHub</BoldGreen> here for now.
+        I’m just going to link my <Link href="https://github.com/chinthujan" target="_blank"><BoldGreen>GitHub</BoldGreen></Link> here for now. 
       </WorkText>
     </WorkContainer>
   </Background>
@@ -40,4 +40,8 @@ const WorkText = styled.p`
 const BoldGreen = styled.a`
   color: #6bc8b5;
   font-weight: 800;
+`;
+
+const Link = styled.a`
+ text-decoration: none;
 `;

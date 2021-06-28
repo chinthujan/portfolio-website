@@ -19,7 +19,7 @@ const Hero = () => (
           <WhiteText>web developer</WhiteText>, a{" "}
           <WhiteText>UX designer</WhiteText>, and a wannabe{" "}
           <WhiteText>director</WhiteText> with a love for everything{" "}
-          <WhiteText>frontend</WhiteText>
+          <WhiteText>frontend</WhiteText> 
           and <WhiteText>creative</WhiteText>. Although my academic background
           is in <WhiteText>Computer Science</WhiteText>, I’m actively looking to
           shift my career path towards both a more challenging and people-facing
@@ -30,9 +30,10 @@ const Hero = () => (
           join me on it:
         </Text>
         <IconContainer>
-          <Icon icon={youtube} />
-          <Icon icon={linkedin} />
-          <Icon icon={github} />
+        <Link href="https://www.youtube.com/cjvslife" target="_blank"><Icon icon={youtube} /></Link>
+        <Link href="https://www.linkedin.com/in/chinthujann/" target="_blank"><Icon icon={linkedin} /></Link>
+        <Link href="https://github.com/chinthujan" target="_blank"><Icon icon={github} /></Link>
+
         </IconContainer>
       </HeroLeft>
     </InnerContainer>
@@ -127,4 +128,8 @@ const Icon = styled.img.attrs((props) => ({
   src: props.icon,
 }))`
   height: 24px;
+`;
+
+const Link = styled.a`
+ text-decoration: none;
 `;

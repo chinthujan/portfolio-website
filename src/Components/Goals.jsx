@@ -11,7 +11,7 @@ const Goals = () => (
       </GoalText>
       <Card>
         <CardText>
-          Land a role at <BoldGreen>Shopify</BoldGreen> that suits my skillset,
+          Land a role at <Link href="https://shopify.com" target="_blank"><BoldGreen>Shopify</BoldGreen></Link> that suits my skillset,
           challenges me, connects me with new friends from all sorts of
           upbringings, and allows me to grow. I’ve read about their space and
           have heard nothing but 10/10 reviews about the company and the work
@@ -85,4 +85,8 @@ const CardText = styled.p`
   padding: 0;
   font-size: 20px;
   font-weight: 500;
+`;
+
+const Link = styled.a`
+ text-decoration: none;
 `;
