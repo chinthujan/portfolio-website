@@ -19,7 +19,7 @@ const Hero = () => (
           <WhiteText>web developer</WhiteText>, a{" "}
           <WhiteText>UX designer</WhiteText>, and a wannabe{" "}
           <WhiteText>director</WhiteText> with a love for everything{" "}
-          <WhiteText>frontend</WhiteText> 
+          <WhiteText>frontend </WhiteText>
           and <WhiteText>creative</WhiteText>. Although my academic background
           is in <WhiteText>Computer Science</WhiteText>, I’m actively looking to
           shift my career path towards both a more challenging and people-facing
