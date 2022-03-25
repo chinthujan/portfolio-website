@@ -62,11 +62,6 @@ const GoalText = styled.p`
   font-weight: 500;
 `;
 
-const BoldGreen = styled.a`
-  color: #6bc8b5;
-  font-weight: 800;
-`;
-
 const Card = styled.div`
   background-color: #424657;
   padding: 32px;
@@ -85,6 +80,3 @@ const CardText = styled.p`
   font-weight: 500;
 `;
 
-const Link = styled.a`
- text-decoration: none;
-`;
