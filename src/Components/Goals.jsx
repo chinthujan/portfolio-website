@@ -11,11 +11,9 @@ const Goals = () => (
       </GoalText>
       <Card>
         <CardText>
-          Land a role at <Link href="https://shopify.com" target="_blank"><BoldGreen>Shopify</BoldGreen></Link> that suits my skillset,
+          Land a front-end developer role that suits my skillset,
           challenges me, connects me with new friends from all sorts of
-          upbringings, and allows me to grow. I’ve read about their space and
-          have heard nothing but 10/10 reviews about the company and the work
-          culture it provides - so I’m aiming for it.{" "}
+          upbringings, and allows me to grow (both personally and professionally).{" "}
         </CardText>
       </Card>
       <Card>
@@ -31,7 +29,7 @@ const Goals = () => (
       <GoalText>
         Personally, I would love to visit at least 2 different countries this
         year, learn at least 2 different languages (1 human [sign language] & 1
-        computer [C++]), and find at least 2 new hobbies.
+        computer [Python]), and find at least 2 new hobbies.
       </GoalText>
     </GoalContainer>
   </Background>
