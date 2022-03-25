@@ -20,11 +20,12 @@ const Hero = () => (
           <WhiteText>front-end developer</WhiteText>, and a wannabe{" "}
           <WhiteText>director</WhiteText> with a love for everything{" "}
           <WhiteText>creative</WhiteText>. My academic background
-          is in <WhiteText>Computer Science</WhiteText> and I'm always looking for ways to level up my personal and professional skillsets. Creating this website as a{" "}
+          is in <WhiteText>Computer Science</WhiteText> and I'm always looking for ways to level up my personal and professional skillsets. This{" "}
           <WhiteText>personal portfolio</WhiteText> is the{" "}
-          <WhiteText>first step on my journey</WhiteText> towards that goal -
-          <WhiteText> connect with me</WhiteText> on any of the following to
-          join me on it:
+          <WhiteText>first step on my journey</WhiteText> towards that goal - I created it using the Adobe Creative Suite, Figma, HTML5, and JavaScript (as my knowledge
+          and skillset develops, so will this website).
+          <WhiteText> Connect with me</WhiteText> on any of the following to
+          join me on what comes next:
         </Text>
         <IconContainer>
         <Link href="https://www.youtube.com/cjvslife" target="_blank"><Icon icon={youtube} /></Link>
