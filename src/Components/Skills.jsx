@@ -26,7 +26,7 @@ const Card = () => {
       <CardBackground>
         <CardTitle>Backend</CardTitle>
         <CardTextContainer>
-          <CardText>Python</CardText>
+          <CardText>Python {{ color: 'red' }}In progress</CardText>
           <CardText>Java</CardText>
         </CardTextContainer>
       </CardBackground>
