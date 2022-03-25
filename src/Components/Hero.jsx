@@ -16,14 +16,11 @@ const Hero = () => (
           Hi, my name is <WhiteText>Chinthujan Nandakumar</WhiteText> (but I
           also go by CJ) and I’m a <WhiteText>26 year old</WhiteText> based out
           of Toronto, Ontario (Canada). I’m a{" "}
-          <WhiteText>web developer</WhiteText>, a{" "}
-          <WhiteText>UX designer</WhiteText>, and a wannabe{" "}
+          <WhiteText>web designer</WhiteText>, a{" "}
+          <WhiteText>front-end developer</WhiteText>, and a wannabe{" "}
           <WhiteText>director</WhiteText> with a love for everything{" "}
-          <WhiteText>frontend </WhiteText>
-          and <WhiteText>creative</WhiteText>. Although my academic background
-          is in <WhiteText>Computer Science</WhiteText>, I’m actively looking to
-          shift my career path towards both a more challenging and people-facing
-          role. Creating this website as a{" "}
+          <WhiteText>creative</WhiteText>. My academic background
+          is in <WhiteText>Computer Science</WhiteText> and I'm always looking for ways to level up my personal and professional skillsets. Creating this website as a{" "}
           <WhiteText>personal portfolio</WhiteText> is the{" "}
           <WhiteText>first step on my journey</WhiteText> towards that goal -
           <WhiteText> connect with me</WhiteText> on any of the following to
