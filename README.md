@@ -9,3 +9,4 @@ This personal portfolio website (www.chinthujan.com) was created with the intent
 - Implement better UI hierarchy
 - Animate aspects of the web page using CSS
 - Organize skills section in a cleaner way
+- "Back to top" button
