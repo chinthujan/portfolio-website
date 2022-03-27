@@ -4,6 +4,11 @@ This personal portfolio website (www.chinthujan.com) was created with the intent
 1. Have a central location for more information about myself, my projects, and my professional goals.
 2. An ongoing project that allows me to implement the skills I learn as I advance through my career as an aspiring developer (UI/UX design, front-end tools, back-end tools, SEO, and more).
 
+## Tech Usage
+- React and styled components
+- HTML5
+- Figma (for the web page mockup)
+
 ## Roadmap
 - Light/Dark mode option
 - Implement better UI hierarchy
